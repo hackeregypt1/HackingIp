@@ -1,7 +1,7 @@
 import os
 import time
 os.system("clear")
-pkg install cowsay -y
+
 
 print ("\033[1;91m██╗██████╗░")
 print ("\033[1;91m██║██╔══██╗")
@@ -11,7 +11,6 @@ print ("\033[1;91m██║██║░░░░░")
 
 print ("\033[1;91m[01]DDOS")
 print ("\033[1;91m[02]Ping Phone")
-cow Hello
 a = input ("\033[0;32mWhat U Need: ")
 if a == "01" :
   os.system("clear")
